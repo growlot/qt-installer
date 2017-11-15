@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=GIFMod
+Exec=sh $$TARGETDIR$$/bindata/GIFMod.sh
+Type=Application
+Icon=$$TARGETDIR$$/bindata/icon.png
+Name[en_US]=GIFMod
+GenericName[en_US]=GIFMod
+Comment[en_US]=
