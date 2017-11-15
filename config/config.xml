@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>GIFMod Installer</Name>
+    <Version>1.0.0</Version>
+    <Title>GIFMod</Title>
+    <Publisher>GIFMod Corporation</Publisher>
+    <!-- Directory name is used in component.xml -->
+    <StartMenuDir>GIFMod</StartMenuDir>
+    <TargetDir>@HomeDir@/GIFMod</TargetDir>
+</Installer>

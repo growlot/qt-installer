@@ -1,0 +1,6 @@
+GIFMod Installer
+
+Generate installer with
+
+binarycreator --offline-only -c config/config.xml -p packages GIFModInstaller
+
